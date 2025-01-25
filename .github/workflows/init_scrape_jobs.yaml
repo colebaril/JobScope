@@ -1,0 +1,41 @@
+name: Scrape Jobs
+
+on:
+  schedule:
+    - cron: '0 * * * *' # This will run the workflow at midnight.
+
+jobs:
+  scrape_jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout repository
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.SCRAPE_DATA_SECRET }}
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      # Step 3: Install dependencies
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install jobspy pandas  # List only required dependencies
+
+      # Step 4: Run the Python script to scrape data
+      - name: Run Scraper
+        run: python scrape_mosquito_data.py
+
+      # Step 5: Commit results if there are changes
+      - name: Commit and Push Results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add jobs_combined.csv
+          git commit -m 'Data updated' || echo "No changes to commit"
+          git push origin HEAD:${{ github.ref_name }} || echo "No changes to push"
