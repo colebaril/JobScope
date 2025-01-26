@@ -2,8 +2,8 @@ require(pacman)
 p_load(tidyverse, here, janitor, shiny, DT, lubridate, shinyWidgets, bslib, shinyauthr)
 
 user_base <- tibble::tibble(
-  user = c("colebaril", "otheruser"),
-  password = c("Newlife2019!", "getmeouttahere"),
+  user = c(USERS_REDACTED),
+  password = c(PASSWORDS_REDACTED),
   permissions = c("admin", "standard"),
   name = c("User One", "User Two")
 )
