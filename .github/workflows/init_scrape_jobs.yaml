@@ -2,7 +2,7 @@ name: Scrape Jobs
 
 on:
   schedule:
-    - cron: '0 * * * *' # This will run the workflow at midnight.
+    - cron: '*/5 * * * *' # This will run the workflow at midnight.
 
 jobs:
   scrape_jobs:
