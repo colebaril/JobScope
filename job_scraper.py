@@ -21,7 +21,8 @@ job_search_terms = [
     "microbiology technician",
     "data analyst",
     "program coordinator",
-    "project manager"
+    "project manager",
+    "r programming language"
 ]
 
 # Initialize an empty list to store results
