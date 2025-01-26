@@ -1,9 +1,10 @@
 name: Scrape Jobs
 
 on:
-  schedule:
-    - cron: '*/5 * * * *' # This will run the workflow at midnight.
-
+  push:
+    branches:
+      - main
+      
 jobs:
   scrape_jobs:
     runs-on: ubuntu-latest
