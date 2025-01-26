@@ -19,6 +19,9 @@ job_search_terms = [
     "quality control analyst",
     "biological technician",
     "microbiology technician",
+    "data analyst",
+    "program coordinator",
+    "project manager"
 ]
 
 # Initialize an empty list to store results
