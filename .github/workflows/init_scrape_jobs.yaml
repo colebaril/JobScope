@@ -1,9 +1,8 @@
 name: Scrape Jobs
 
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: '0 0 * * *'  # Run at midnight every day
       
 jobs:
   scrape_jobs:
