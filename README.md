@@ -25,7 +25,9 @@ If you use this app and wish to have additional search terms included, please se
 
 # How It Works
 
-At midnight GMT, a GitHub Actions workflow is triggered via a cron job, which runs the `job_scraper.py` script. The script scrapes various job boards and appends results to the `jobs_combined.csv` file. The data is then read on load by the Shiny app which involves some data clean-up and displays all data in a table with various filtering options.
+At midnight GMT, a GitHub Actions workflow is triggered via a cron job, which runs the `job_scraper.py` script. The script scrapes job listings posted in the last 24 hours from various boards and appends results to the `jobs_combined.csv` file. The data is then read on load by the Shiny app which involves some data clean-up and displays all data in a table with various filtering options.
+
+To avoid being blocked by each site, the script only runs once per day and uses proxies. 
 
 
 
