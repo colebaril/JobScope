@@ -29,7 +29,7 @@ jobs:
 
       # Step 4: Run the Python script to scrape data
       - name: Run Scraper
-        run: python scrape_mosquito_data.py
+        run: python job_scraper.py
 
       # Step 5: Commit results if there are changes
       - name: Commit and Push Results
