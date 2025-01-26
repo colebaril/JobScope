@@ -1,4 +1,6 @@
-# JobScope  <img src='logo.png' align="right" height="210" />
+# JobScope  
+
+<img src='logo.png' align="right" height="210" />
 
 [![](https://img.shields.io/badge/Shiny-shinyapps.io-blue?style=flat&labelColor=white&logo=RStudio&logoColor=blue)](https://colewb.shinyapps.io/JobScope/) 
 ![](https://img.shields.io/badge/Status-Active-Green)
