@@ -3,6 +3,7 @@ name: Scrape Jobs
 on:
   schedule:
     - cron: '0 0 * * *'  # Run at midnight every day
+  workflow_dispatch:  
       
 jobs:
   scrape_jobs:
