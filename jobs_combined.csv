@@ -1,363 +1,182 @@
 id,site,job_url,job_url_direct,title,company,location,date_posted,job_type,salary_source,interval,min_amount,max_amount,currency,is_remote,job_level,job_function,listing_type,emails,description,company_industry,company_url,company_logo,company_url_direct,company_addresses,company_num_employees,company_revenue,company_description,skills,experience_range,company_rating,company_reviews_count,vacancy_count,work_from_home_type,search_term,date_scraped
-in-ed5365cc6142344b,indeed,https://ca.indeed.com/viewjob?jk=ed5365cc6142344b,https://careers.wrha.mb.ca/job/Winnipeg-Technician-2-Research-MB/600406817/,Technician 2 - Research,St. Boniface Hospital,"Winnipeg, MB, CA",2026-03-05,temporary,,,,,,False,,,,,"**Requisition ID:** 398433
+li-4382672743,linkedin,https://www.linkedin.com/jobs/view/4382672743,,Data Analyst,NFI Parts Inc,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/nfi-parts-inc,,,,,,,,,,,,,research assistant,2026-03-09
+in-4486c98d6281386a,indeed,https://ca.indeed.com/viewjob?jk=4486c98d6281386a,https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/Toronto-ON/Lead--Data-Quality_JR114199,"Lead, Data Quality",ServiceTitan,"Winnipeg, MB, CA",2026-03-08,fulltime,,,,,,True,,,,,"Job Description
+Are You a Data Visionary Ready to Shape the Future of a Fast\-Growing SaaS Company?
 
 
-**Position Number:** 20087531
+ServiceTitan is on a mission to revolutionize the trades industry, and we need a Data Governance Lead to be the driving force behind our data integrity. This isn't just a role about policies and procedures; it's about pioneering a new era of data excellence where AI and automation are at the core of our strategy.
 
 
-**Posting End Date:** March 13, 2026
+You'll be the champion of our enterprise data assets, ensuring they are accurate, complete, and reliable. We're looking for someone who thrives on solving complex data puzzles and is ready to leverage cutting\-edge tools and scripting to automate data quality checks and elevate our standards.
+
+**What You'll Do:**
+
+* Independently lead data governance initiatives, partnering with data engineers, data scientists, and business units to tackle data quality and governance challenges.
+* Develop and maintain data dictionaries, data lineage, and data profiles.
+* Champion data quality by conducting in\-depth data analysis to investigate and diagnose the root causes of complex data quality issues.
+* Mentor data quality analysts and serve as a subject matter expert, advocating for data quality and governance across the organization. This includes communicating risks, progress, and opportunities to both technical and non\-technical stakeholders.
+* Design, implement, and automate a robust data control framework, using AI tools and advanced techniques to create scalable solutions. This will include developing and implementing data quality checks, rules, and metrics while proactively identifying new validations to prevent issues before they arise, shifting our data management approach from reactive to proactive.
+* Lead the entire process from creating Jira tickets for data quality issues to collaborating with cross\-functional teams, ensuring issues are resolved with proper root cause analysis (RCA) and remediation plans.
+* Identify and implement process improvements, encompassing workflows and tools. This self\-starter role requires the ability to quickly identify an opportunity and execute on it without delay.
+* Proactively identify and define new data validations and checks to prevent quality issues before they arise, shifting our approach from reactive to proactive data management.
+* Take responsibility for data source identification, controls monitoring, and the overall data quality framework and management.
+* Understand downstream impacts and effectively communicate data changes.
+* Influence other teams to adopt data governance processes and procedures.
+
+**Required Skills:**
+
+* Bachelor's degree in Information Technology, Computer Science, or a related field. A Master's in Computer Science is a plus.
+* 10\+ years of experience in data governance and analytics.
+* Strong practical experience with data governance and data quality management.
+* Deep understanding of enterprise data ecosystems (SFDC, Workday, NetSuite etc.) and the ability to conduct hands\-on data analysis.
+* Proven expertise in SQL for data querying, analysis, and manipulation.
+* Excellent problem\-solving and critical thinking skills.
+* Ability to distill complex data findings into actionable recommendations.
+* Strong communication (verbal and written) and interpersonal skills, with the ability to explain complex technical concepts to non\-technical audiences.
+* Ability to collaborate effectively with cross\-functional teams across multiple time zones.
+* Strong understanding of data management concepts with hands\-on experience using Snowflake.
+* Familiarity with the Quote\-to\-Cash (Q2C) process.
+* Demonstrated ability to identify, analyze, and resolve complex data quality issues, with strong attention to detail.
+* Comfortable working under tight deadlines in a high\-growth environment.
+* Ability to leverage AI and machine learning tools to automate data quality monitoring, shifting the focus from manual checks to proactive, intelligent data management.
+* Proven ability to work independently and as part of a team in a fast\-paced, dynamic environment.
+
+**Preferred Skills:**
+
+* Understanding of various data domains and their specific data quality challenges (e.g., billing data, contracts data, financial data).
+* Certifications in data management or data quality (e.g., CDMP) are a plus.
+* Experience with scripting languages (e.g., Python) for data analysis and automation is a plus.
+* Experience with data visualization tools (e.g., Tableau) to create data quality dashboards.
+**Be Human With Us:**
 
 
-**City:** Winnipeg
+Being human isn’t about checking every box on a list. It’s about the experiences we have, people we meet, and the perspectives we share. So, if you have the skills but are hesitant to apply because of your background, apply anyway. We need amazing people like you to help us challenge the conventional and think differently about the problems that we’re solving. We’re in this together. Come be human, with us.
+
+**What We Offer:**
 
 
-**Site:** St. Boniface Hospital
+When you join our team, you’re not just accepting a job. You’re making a career move. Here’s how we’ll support you in doing some of the most impactful work of your career:
+
+* **Flextime, recognition, and support for autonomous work:** Flexible time off with ample learning and development opportunities to continue growing your career. We offer a comprehensive onboarding program, leadership training for Titans at all levels, and other programs and events. Great work is rewarded through Bonusly, peer\-nominated awards, and more.
+* **Holistic health and wellness benefits:** Company\-paid medical, dental, and vision for you and your dependents, RSP match, and an employee assistance program.
+* **Support for Titans at all stages of life:** Parental leave and support, up to $20k in adoption reimbursement, on demand maternity support through Maven Maternity, free breast milk shipping through Maven Milk, financial planning tools, and more.
+
+**Our Commitment to Inclusion:**
 
 
-**Department / Unit:** Cardiac \& Cellular Dynamics Lab
+At ServiceTitan, we celebrate individuality and uniqueness. We believe that the convergence of fresh perspectives and experiences from all walks of life is what makes our product and culture so great. We strongly encourage people from underrepresented groups to apply. ServiceTitan is an equal opportunity employer. We do not discriminate against employees based on race, colour, religion, creed, sex, national origin, gender identity or expression, age, disability, pregnancy (including childbirth, breastfeeding, or related medical condition), marital status, family status, sexual orientation, or any other characteristic protected by applicable provincial legislation.
 
 
-**Job Stream:** Clinical Support
+Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+**Use of AI Technology:**
 
 
-**Union:** Non Union
+We use technology, including automated and AI\-assisted tools, to support certain aspects of our recruitment process. These tools are designed to improve efficiency and enhance the candidate experience. AI tools are not used to make hiring decisions; all hiring decisions are made by our hiring teams.
 
 
-**Anticipated Start Date \- End Date:** 04/01/2026 \- 03/31/2027
+‌
+
+**A Note on the Application \& Hiring Process:**
 
 
-**Reason for Term:** Other Leave
+When you submit your application for the Lead, Data Quality position, your candidacy will be considered for all available Lead, Data Quality opportunities across our entire organization, which includes ServiceTitan and its key subsidiaries: Aspire, FieldRoutes, and Convex. Our dedicated recruiting team operates centrally to review candidates for these multiple verticals. This ensures your application receives maximum exposure and that we match your skills and career interests to the team with the greatest business need and best fit. The final hiring decision and offer of employment will specify the exact company (ServiceTitan, Aspire, FieldRoutes, or Convex) and vertical team you will be supporting.
+‌‌‌
+
+**Compensation Disclosure:**
 
 
-**FTE:** 1\.00
+ServiceTitan is committed to fair and equitable compensation for all of our employees. We thoughtfully consider a wide range of factors when determining individual compensation. The expected compensation for this role for candidates residing in Canada is between $133,500 CAD \- $188,500 CAD. Actual compensation for an individual may vary depending on many factors, including skills, performance over time, business needs, qualifications, experience, and location. In addition to the base salary, the total compensation package also includes equity and a holistic suite of benefits. This position may also be eligible for a bonus.
+‌
+
+**Personal Information:**
 
 
-**Anticipated Shift:** Days
+ServiceTitan collects your personal information to support its business operations, including for human resources, employment, benefits administration, health and safety, and other business\-related purposes as well as for legal compliance. You can review further details of such collection and use in our Privacy Policy",Internet And Software,https://ca.indeed.com/cmp/Servicetitan,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/626902e66e98967dc92330a76c325271,https://www.servicetitan.com,"801 N Brand Blvd #700, Glendale, CA 91203","1,001 to 5,000",$100M to $500M (USD),"We’re building the first end-to-end solution to transform the trades. While our vision is bold, we always stay humble. Join us. We’re just getting started.",,,,,,,quality control analyst,2026-03-09
+in-4ac4cd71452f61da,indeed,https://ca.indeed.com/viewjob?jk=4ac4cd71452f61da,https://apply.workable.com/j/AF09013188,Data Analyst,NFI Parts,"Winnipeg, MB, CA",2026-03-08,fulltime,,,,,,False,,,,,"**NFI Parts™** is North America’s most comprehensive organization providing parts, technical publications, training, and support for buses and motor coaches. NFI Parts is the parts division of NFI Group, providing replacement parts for New Flyer® transit buses, MCI® motor coaches, ADL buses, ARBOC® vehicles, as well as the product lines for the acquired NABI and Orion parts businesses. NFI Parts maintains extensive cross\-references for parts and has established relationships with over 1,000 suppliers. Learn more at www.nfi.parts.
+
+**POSITION SUMMARY**
 
 
-**Work Arrangement:** In Person
+Lead a critical initiative aimed at eliminating part identification inconsistencies, incorrect cross references, and outdated product information that result in lost sales opportunities and customer confusion. This role is responsible for cleaning, managing, and maintaining the integrity of parts data across systems \- ensuring accuracy, standardization, and usability for both internal teams and customers.
 
+**WHAT YOU WILL DO**
 
-**Daily Hours Worked:** 7\.50
+**Initial Data Clean\-Up**
 
+* Audit and correct part naming conventions across multiple data sources.
+* Re\-establish and validate product relationships, including obsolete parts, alternates, supersessions, kits, and subcomponents.
+* Standardize and validate cross\-reference data, including OEM and vendor cross references.
+* Review and clean manufacturing data, including BOM inconsistencies, sourcing notes, and production details.
+* Identify and remove redundant, outdated, or unreliable written notes that hinder searchability.
+* Ensure significant product data is displayed in e\-commerce platform for customer purchases through the ERP system.
+* Ensure all technical data
+* Review, revise, or remove attachments (customer documents, photos, PDFs, drawings) to ensure accuracy and relevance.
+* Reclassify parts into correct Category/Set/Class structures to improve catalog consistency ensuring new structure is communicated to Pricing Dept.
 
-**Annual Base Hours:** 1950
+**Ongoing Data Management**
+
+* Maintain robust processes for continuous data validation and updates across parts databases and content systems.
+* Monitor and resolve data discrepancies in real time, ensuring alignment between ERP, catalog, and e\-commerce systems.
+* Ensure all product relationships remain accurate, including replacements, alternates, and component groupings.
+* Revise customer\-facing attachments and information to support correct and current product details.
+* Collaborate with Product Management, Engineering, Supply Chain, Customer Service, and IT to ensure data accuracy across all platforms.
+* Maintain detailed documentation of data changes, rules, and governance standards.
+
+**Process Improvement \& Governance**
+
+* Design and document scalable data governance workflows to support long\-term data integrity.
+* Recommend system enhancements to improve product data handling, visibility, and consistency.
+* Train cross\-functional teams on data entry standards, document management, and best practices.
+* Contribute to continuous improvement efforts to enhance catalog searchability, product accuracy, and the customer digital experience.
 
   
 
+**Requirements** **WHAT YOU NEED TO BE SUCCESSFUL**
 
-
-
-Grow your career in the Winnipeg Health Region! Our team provides a spectrum of health care services through an integrated network of sites, services and organizations. We’re united by a shared commitment to excellent and equitable health care.
-
-**Position Overview**
----------------------
-
-
-
-Under the direction of the Principal Investigator, and while demonstrating a commitment to the Mission, Values and Management Philosophy of St. Boniface Hospital, the Research Technician 2 is responsible for: providing routine and standardized technical assistance and analysis; performing new techniques under the supervision of the Principal Investigator; and performing other related duties as assigned.
-
-**Experience**
---------------
-
-
-* Two (2\) years’ experience working in a research laboratory.
-**Education (Degree/Diploma/Certificate)**
-------------------------------------------
-
-
-* Grade XII University entrance required, plus:
-* Degree/diploma in sciences and six (6\) months related experience.
+* Education in Data Science, Statistics, or Business Analytics.
+* Understanding of aftermarket parts structure, catalog data, cross\-referencing, and product identification.
+* Experience with ERP systems and product data management environments.
+* Demonstrated background in data cleansing, auditing, transformation, and classification.
+* Analytical mindset with strong attention to detail and the ability to identify and correct data inconsistencies.
+* Ability to work independently and take full ownership of data quality objectives.
+* Strong communication and documentation skills.
+* Knowledge of OEM Aftermarket Parts products, cataloging practices, and historical data structures.
+* Experience with parts cataloging, inventory management, BOM structures, or manufacturing documentation.
+* Familiarity with e\-commerce or digital product content management systems.
+* Experience with data governance, process improvement, or LEAN methodologies
+* Proficiency with data management tools (e.g., SQL, Python, Excel Advanced functions, data cleansing utilities) and ERP reporting functionality.
+* Strong organizational skills with the ability to manage large data sets and complex information structures.
+* Problem\-solving and root\-cause analysis skills in data\-related workflows.
+* Ability to develop, document, and enforce data standards and governance rules.
+* Strong aptitude for identifying patterns, anomalies, and process inefficiencies within large data repositories.
+* Ability to collaborate effectively across departments and communicate technical concepts clearly
 
   
 
+**Benefits** **WHY JOIN OUR TEAM:**
 
-**Note:** An equivalent combination of education and experience, as deemed recognized by the Employer, may be considered in lieu of the above.
+* Competitive Wages.
+* A continuous learning environment.
+* Ability to advance your career with a growing company.
+* NFI Group has been named a Manitoba Top Employer for 2020 and this is the tenth since the competition was established in 2007\.
+* Employee social committee organizes numerous events throughout the year, including summer barbecues, holiday festivities, sporting events and tournaments, and much more.
+* Ongoing employee development through a variety of in\-house training initiatives.
 
-**Certification/Licensure/Registration**
-----------------------------------------
+**HOW TO APPLY**
 
 
+If you would like to apply for this position or know someone who would, please submit a resume.
 
-Not Applicable
+**OUR WHY:**
 
 
-**Qualifications and Skills**
------------------------------
+We exist to move people. Our mission is to design and deliver exceptional transportation solutions that are safe, accessible, efficient and reliable.
 
-
-* Proficiency in the use of spreadsheet, database, word processing, PowerPoint and internet software applications.
-* Ability to work under pressure and meet deadlines.
-* Ability to work independently with minimal supervision.
-* Ability to interact well with others.
-* Ability to retain information which is of a confidential nature.
-* Mature and professional manner.
-* Strict attention to detail.
-* No known allergies to detergents, chemicals or animals.
-**Physical Requirements**
--------------------------
-
-
-
-Not Applicable
-
-  
-
-
-
-St. Boniface Hospital is committed to empowering a workforce that welcomes and celebrates diversity by fostering culturally safe places for all employees. We strive to celebrate our diverse workforce and the outstanding work we do every day.
-
-  
-
-
-**This term position may end earlier as outlined in your employee handbook.**
-
-  
-
-
-**This position requires a current satisfactory Criminal Records Check (including Vulnerable Sector Search), Child Abuse Registry Check and Adult Abuse Registry Check as conditions of employment. The successful candidate will be responsible for any service charges incurred. A security check is considered current if it was obtained no more than six (6\) months prior to the start of employment.**
-
-  
-
-
-
-Interviewed candidates may be called upon to participate in a skills assessment.
-
-  
-
-
-
-Any application received after the closing time will not be included in the competition.
-
-  
-
-
-
-We welcome applications from people with disabilities. Accommodations are available upon request during the assessment and selection process.
-
-  
-
-
-
-Manitoba healthcare employers, in partnership with the Indigenous community, are committed to increasing the representation of Indigenous People within all levels of our workforce. Indigenous applicants are encouraged to apply and to voluntarily self\-identify as being of Indigenous descent in their cover letter/application.",Health Care,https://ca.indeed.com/cmp/St.-Boniface-Hospital,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8f1908fbc4d0e353c4e042e62ed3e157,http://www.sbgh.mb.ca/,Winnipeg,"1,001 to 5,000",less than $1M (USD),,,,,,,,laboratory technician,2026-03-08
-in-ed5365cc6142344b,indeed,https://ca.indeed.com/viewjob?jk=ed5365cc6142344b,https://careers.wrha.mb.ca/job/Winnipeg-Technician-2-Research-MB/600406817/,Technician 2 - Research,St. Boniface Hospital,"Winnipeg, MB, CA",2026-03-05,temporary,,,,,,False,,,,,"**Requisition ID:** 398433
-
-
-**Position Number:** 20087531
-
-
-**Posting End Date:** March 13, 2026
-
-
-**City:** Winnipeg
-
-
-**Site:** St. Boniface Hospital
-
-
-**Department / Unit:** Cardiac \& Cellular Dynamics Lab
-
-
-**Job Stream:** Clinical Support
-
-
-**Union:** Non Union
-
-
-**Anticipated Start Date \- End Date:** 04/01/2026 \- 03/31/2027
-
-
-**Reason for Term:** Other Leave
-
-
-**FTE:** 1\.00
-
-
-**Anticipated Shift:** Days
-
-
-**Work Arrangement:** In Person
-
-
-**Daily Hours Worked:** 7\.50
-
-
-**Annual Base Hours:** 1950
-
-  
-
-
-
-
-Grow your career in the Winnipeg Health Region! Our team provides a spectrum of health care services through an integrated network of sites, services and organizations. We’re united by a shared commitment to excellent and equitable health care.
-
-**Position Overview**
----------------------
-
-
-
-Under the direction of the Principal Investigator, and while demonstrating a commitment to the Mission, Values and Management Philosophy of St. Boniface Hospital, the Research Technician 2 is responsible for: providing routine and standardized technical assistance and analysis; performing new techniques under the supervision of the Principal Investigator; and performing other related duties as assigned.
-
-**Experience**
---------------
-
-
-* Two (2\) years’ experience working in a research laboratory.
-**Education (Degree/Diploma/Certificate)**
-------------------------------------------
-
-
-* Grade XII University entrance required, plus:
-* Degree/diploma in sciences and six (6\) months related experience.
-
-  
-
-
-**Note:** An equivalent combination of education and experience, as deemed recognized by the Employer, may be considered in lieu of the above.
-
-**Certification/Licensure/Registration**
-----------------------------------------
-
-
-
-Not Applicable
-
-
-**Qualifications and Skills**
------------------------------
-
-
-* Proficiency in the use of spreadsheet, database, word processing, PowerPoint and internet software applications.
-* Ability to work under pressure and meet deadlines.
-* Ability to work independently with minimal supervision.
-* Ability to interact well with others.
-* Ability to retain information which is of a confidential nature.
-* Mature and professional manner.
-* Strict attention to detail.
-* No known allergies to detergents, chemicals or animals.
-**Physical Requirements**
--------------------------
-
-
-
-Not Applicable
-
-  
-
-
-
-St. Boniface Hospital is committed to empowering a workforce that welcomes and celebrates diversity by fostering culturally safe places for all employees. We strive to celebrate our diverse workforce and the outstanding work we do every day.
-
-  
-
-
-**This term position may end earlier as outlined in your employee handbook.**
-
-  
-
-
-**This position requires a current satisfactory Criminal Records Check (including Vulnerable Sector Search), Child Abuse Registry Check and Adult Abuse Registry Check as conditions of employment. The successful candidate will be responsible for any service charges incurred. A security check is considered current if it was obtained no more than six (6\) months prior to the start of employment.**
-
-  
-
-
-
-Interviewed candidates may be called upon to participate in a skills assessment.
-
-  
-
-
-
-Any application received after the closing time will not be included in the competition.
-
-  
-
-
-
-We welcome applications from people with disabilities. Accommodations are available upon request during the assessment and selection process.
-
-  
-
-
-
-Manitoba healthcare employers, in partnership with the Indigenous community, are committed to increasing the representation of Indigenous People within all levels of our workforce. Indigenous applicants are encouraged to apply and to voluntarily self\-identify as being of Indigenous descent in their cover letter/application.",Health Care,https://ca.indeed.com/cmp/St.-Boniface-Hospital,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8f1908fbc4d0e353c4e042e62ed3e157,http://www.sbgh.mb.ca/,Winnipeg,"1,001 to 5,000",less than $1M (USD),,,,,,,,research assistant,2026-03-08
-li-4382378374,linkedin,https://www.linkedin.com/jobs/view/4382378374,,Technician 2 - Research,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,research assistant,2026-03-08
-li-4382373316,linkedin,https://www.linkedin.com/jobs/view/4382373316,,Technician 2 - Research,Shared Health-Soins Communs,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/shared-health-soins-communs,,,,,,,,,,,,,research assistant,2026-03-08
-li-4381311717,linkedin,https://www.linkedin.com/jobs/view/4381311717,,Quality Assurance Analyst,IntouchCX,"Winnipeg, Manitoba, Canada",2026-03-07,,,,,,,False,,,,,,,https://ca.linkedin.com/company/intouchcx,,,,,,,,,,,,,quality control analyst,2026-03-08
-li-4381311717,linkedin,https://www.linkedin.com/jobs/view/4381311717,,Quality Assurance Analyst,IntouchCX,"Winnipeg, Manitoba, Canada",2026-03-07,,,,,,,False,,,,,,,https://ca.linkedin.com/company/intouchcx,,,,,,,,,,,,,data analyst,2026-03-08
-li-4300781749,linkedin,https://www.linkedin.com/jobs/view/4300781749,,"Staff Software Engineer, Backend (Streaming)",Affirm,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,data analyst,2026-03-08
-li-4369346728,linkedin,https://www.linkedin.com/jobs/view/4369346728,,Case Coordinator - Coordonnateur-Coordonnatrice de cas,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382375656,linkedin,https://www.linkedin.com/jobs/view/4382375656,,Health Care Aide - Home Care Program - P2 Point Douglas Team,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382357986,linkedin,https://www.linkedin.com/jobs/view/4382357986,,Health Care Aide - Home Care Program - P2 Point Douglas Team,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382385262,linkedin,https://www.linkedin.com/jobs/view/4382385262,,Health Care Aide - Home Care Program - Downtown Team - Repost,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382374653,linkedin,https://www.linkedin.com/jobs/view/4382374653,,Health Care Aide - Home Care Program - Assiniboine South Team,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382384250,linkedin,https://www.linkedin.com/jobs/view/4382384250,,Health Care Aide - Home Care Program -St. Vital Team,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382369828,linkedin,https://www.linkedin.com/jobs/view/4382369828,,Health Care Aide - Home Care Program - St. Vital Team,Winnipeg Regional Health Authority (WRHA),"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382362871,linkedin,https://www.linkedin.com/jobs/view/4382362871,,Health Care Aide - Home Care Program - Downtown Team - Repost,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382368560,linkedin,https://www.linkedin.com/jobs/view/4382368560,,Health Care Aide - Home Care Program -St. Vital Team,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382377124,linkedin,https://www.linkedin.com/jobs/view/4382377124,,Health Care Aide - Home Care Program - Assiniboine South Team,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-li-4382362870,linkedin,https://www.linkedin.com/jobs/view/4382362870,,Health Care Aide - Home Care Program - St. Vital Team,Winnipeg Regional Health Authority (WRHA),,,,,,,,,False,,,,,,,https://ca.linkedin.com/company/winnipeg-regional-health-authority-wrha,,,,,,,,,,,,,program coordinator,2026-03-08
-in-3742c10c7724ec2a,indeed,https://ca.indeed.com/viewjob?jk=3742c10c7724ec2a,https://pennco.bamboohr.com/careers/35?source=indeed&src=indeed&postedDate=2026-03-06,Project Coordinator,PENN-CO CONSTRUCTION,"Steinbach, MB, CA",2026-03-06,fulltime,,,,,,False,,,,,"Penn\-co is founded on the principles of inspiring and empowering communities to build a brighter future. We strive to collaborate with community leaders to achieve their goals, advocate for their needs, and provide them with the tools and resources necessary to drive positive change.
-
-  
-
-Are you looking for an exciting and challenging career path? Are you passionate about construction and building on your future? We are committed to providing opportunities for development for our employees in our growing organization.
-
-  
-
-Penn\-co Construction is a leading construction company currently hiring a Project Coordinator to join our team working at our Steinbach office. As the Project Coordinator, you will be responsible for comprehensive administrative support to ensure smooth project operations and effective communication. Penn\-co offers an excellent benefits package and competitive salary. If you are looking to join a leader in the construction industry and bring projects to life, then this may be the perfect fit for you.
-
-  
-
-
-**Responsibilities**
-
-
-* Participate in planning and implementing construction schedules, productivity innovation, and site coordination.
-* Assist with on\-site coordination of personnel.
-* Monitor cost control and job costing, material takeoffs and pricing.
-* Ensure compliance with technical specifications and project drawings, track, and log shop drawings.
-* Process change orders and RFIs as needed.
-* Assist with organizing and coordinating subcontractor activities; communicate with and provide information to subcontractors.
-* Participate fully in health, safety, quality, and environmental processes.
-* Support the project close\-out, final inspections, deficiencies, warranty work and site demolition.
-* Maintain project documentation in a manner consistent with contract deliverables and the company file structure.
-* Work closely with the Site Superintendent and Project Manager
-
-  
-
-
-**Qualifications**
-
-
-* A diploma in CET or an equivalent academic combination with practical experience
-* Possess a valid drivers license.
-* Experience in the construction industry is required.
-* Excellent communication skills
-* Experience with Microsoft office and MS Projects.
-* Able to be assertive and resolve issues on site and with subtrades.
-* Able to work flexible hours periodically as required.
-* Ability to work as a collaborator, manage multiple priorities, and work under pressure.
-
-  
-
-
-
-Penn\-co has been in business for 65 years! Check out website www.penn\-co.com to see some of the exciting projects that we have completed and are currently working on! Empowering today for a better tomorrow.
-
-  
-
-Only those selected for an interview will be contacted.",,https://ca.indeed.com/cmp/Penn--co-Construction,https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/269198c4d6316f1a88db0c0608db5810,https://www.penn-co.com/,,,,,,,,,,,project manager,2026-03-08
-li-4380463068,linkedin,https://www.linkedin.com/jobs/view/4380463068,,Project Coordinator,Quik-Therm Insulation Solutions,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/quik-therm-insulation-solutions,,,,,,,,,,,,,project manager,2026-03-08
-li-4371201019,linkedin,https://www.linkedin.com/jobs/view/4371201019,,Senior Project Manager - Buildings,Graham,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/grahambuilds,,,,,,,,,,,,,project manager,2026-03-08
-li-4380805808,linkedin,https://www.linkedin.com/jobs/view/4380805808,,Finance Operations & Nation Support Manager,Accurate Indigenous Managers & Advisors,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/accurate-indigenous-managers-advisors,,,,,,,,,,,,,project manager,2026-03-08
-li-4372952109,linkedin,https://www.linkedin.com/jobs/view/4372952109,,"Senior Manager, Equipment Maintenance (Temporary)",VIA Rail Canada,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/via-rail-canada,,,,,,,,,,,,,project manager,2026-03-08
-li-4355481483,linkedin,https://www.linkedin.com/jobs/view/4355481483,,SAP EAM/ Plant Maintenance - Manager or Senior Manager,EY,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,project manager,2026-03-08
-li-4372924873,linkedin,https://www.linkedin.com/jobs/view/4372924873,,"Senior Product Manager, Card Platform",Affirm,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,project manager,2026-03-08
-li-4326806060,linkedin,https://www.linkedin.com/jobs/view/4326806060,,"Senior Manager, Software Engineering (Data & Storage Services)",Affirm,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,project manager,2026-03-08
-li-4380837642,linkedin,https://www.linkedin.com/jobs/view/4380837642,,Artificial Intelligence (AI) Tutor,"Varsity Tutors, a Nerdy Company","Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/varsity-tutors,,,,,,,,,,,,,r programming language,2026-03-08
-li-4380843591,linkedin,https://www.linkedin.com/jobs/view/4380843591,,(CAN) Fashion Associate,Walmart Canada,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/wal-mart-canada,,,,,,,,,,,,,r programming language,2026-03-08
-li-4381373660,linkedin,https://www.linkedin.com/jobs/view/4381373660,,HEADINGLEY - FLOOR SERVER,Mission Mars,"Headingley, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/mission-mars,,,,,,,,,,,,,r programming language,2026-03-08
-li-4364119224,linkedin,https://www.linkedin.com/jobs/view/4364119224,,(CAN) Overnight Associate,Walmart Canada,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/wal-mart-canada,,,,,,,,,,,,,r programming language,2026-03-08
-li-4381207987,linkedin,https://www.linkedin.com/jobs/view/4381207987,,(CAN) Dairy Frozen Associate,Walmart Canada,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/wal-mart-canada,,,,,,,,,,,,,r programming language,2026-03-08
-li-4380851152,linkedin,https://www.linkedin.com/jobs/view/4380851152,,Statistics Graduate Level Tutor,"Varsity Tutors, a Nerdy Company","Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/varsity-tutors,,,,,,,,,,,,,r programming language,2026-03-08
+**NFI Group** is a leading independent global bus manufacturer providing a comprehensive suite of mass transportation solutions. News and information is available at www.nfigroup.com, www.newflyer.com, www.mcicoach.com, www.nfi.parts, www.alexander\-dennis.com, www.arbocsv.com, and www.carfaircomposites.com.",,https://ca.indeed.com/cmp/Nfi-Parts,,,,,,,,,,,,,data analyst,2026-03-09
+li-4382672743,linkedin,https://www.linkedin.com/jobs/view/4382672743,,Data Analyst,NFI Parts Inc,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/nfi-parts-inc,,,,,,,,,,,,,data analyst,2026-03-09
+li-4382928019,linkedin,https://www.linkedin.com/jobs/view/4382928019,,"Data Engineer - Remote, USA",Bluelight,"Winnipeg, Manitoba, Canada",,,,,,,,True,,,,,,,https://www.linkedin.com/company/bluelightco,,,,,,,,,,,,,data analyst,2026-03-09
+li-4382904933,linkedin,https://www.linkedin.com/jobs/view/4382904933,,Data Engineer - Databricks (Remote),Lumenalta,"Winnipeg, Manitoba, Canada",,,,,,,,True,,,,,,,https://www.linkedin.com/company/lumenalta,,,,,,,,,,,,,data analyst,2026-03-09
+li-4382912532,linkedin,https://www.linkedin.com/jobs/view/4382912532,,"Account Coordinator, Remote",Bluelight,"Winnipeg, Manitoba, Canada",,,,,,,,True,,,,,,,https://www.linkedin.com/company/bluelightco,,,,,,,,,,,,,project manager,2026-03-09
+li-4365605871,linkedin,https://www.linkedin.com/jobs/view/4365605871,,"Senior Manager, Governance, Risk and Compliance Services",KPMG Canada,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/kpmg-canada,,,,,,,,,,,,,project manager,2026-03-09
+li-4355423425,linkedin,https://www.linkedin.com/jobs/view/4355423425,,Application Managed Services - Service Delivery Senior Manager (Guidewire-Insurance),EY,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/ernstandyoung,,,,,,,,,,,,,project manager,2026-03-09
