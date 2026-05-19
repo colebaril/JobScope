@@ -37121,3 +37121,141 @@ li-4412067076,linkedin,https://www.linkedin.com/jobs/view/4412067076,,Senior Fin
 li-4416044204,linkedin,https://www.linkedin.com/jobs/view/4416044204,,Healthcare Project Manager,Amyantek,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/amyantek,,,,,,,,,,,,,project manager,2026-05-18
 li-4366561068,linkedin,https://www.linkedin.com/jobs/view/4366561068,,"Senior Product Manager, Financial Reporting",Affirm,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,project manager,2026-05-18
 li-4367003219,linkedin,https://www.linkedin.com/jobs/view/4367003219,,"Senior Manager, Software Engineering (Lake Analytics Platform)",Affirm,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/affirm,,,,,,,,,,,,,project manager,2026-05-18
+li-4414745625,linkedin,https://www.linkedin.com/jobs/view/4414745625,,Geotechnical Lab Technician,AECOM,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/aecom,,,,,,,,,,,,,laboratory technician,2026-05-19
+li-4416252447,linkedin,https://www.linkedin.com/jobs/view/4416252447,,"Canada Residents - Survey Participants - Macdonald, Canada",Prolific,"Macdonald, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,research assistant,2026-05-19
+li-4416248500,linkedin,https://www.linkedin.com/jobs/view/4416248500,,"Canada Residents - Survey Participants - Ritchot, Canada",Prolific,"Ritchot, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,research assistant,2026-05-19
+li-4416254404,linkedin,https://www.linkedin.com/jobs/view/4416254404,,"Canada Residents - Survey Participants - East St. Paul, Canada",Prolific,"East Saint Paul, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,research assistant,2026-05-19
+in-1febe92f265e8003,indeed,https://ca.indeed.com/viewjob?jk=1febe92f265e8003,http://ca.indeed.com/job/data-analyst-1febe92f265e8003,Data Analyst,,"Winnipeg, MB, CA",2026-05-18,fulltime,,,,,,True,,,,,"**About the job**
+
+Our partner, Tucows (NASDAQ:TCX, TSX:TC) is possibly the biggest Internet company you’ve never heard of. We started as a simple shareware site in 1993 and have since grown into a stable of businesses: Tucows Domains, Ting Internet and Wavelo.
+
+We embrace a people\-first philosophy that is rooted in respect, trust, and flexibility. We believe that whatever works for our employees is what works best for us. It’s also why the majority of our roles are remote\-first, meaning you can work from anywhere you can connect to the Internet!
+
+Today, over one thousand people work in over 20 countries to help us make the Internet better. If this sounds exciting to you, join the herd!
+
+**About The Role**
+
+We’re looking for a curious, technically strong, and business\-minded Data Analyst to join our Data Engineering team. This is a high\-impact analytics position for someone who works at the intersection of data engineering, business intelligence, finance analytics, and AI\-enabled decision support.
+
+You’ll partner closely with Finance, Operations, Data Engineering, and business leadership to turn complex questions into trusted, actionable insights — with a particular focus on supporting the Finance organization. This role reports to the Data Engineering Manager.
+
+What You’ll Do
+
+* SQL \& Business Analysis: Translate ambiguous business questions into precise SQL queries against our Snowflake warehouse. Own and deliver recurring financial reporting, reconciliation, and operational analytics with an eye for improving efficiency over time.
+* Diagnostic \& Advanced Analytics: Go beyond dashboards to explain why metrics move. Conduct root cause analyses, build forecasting models, and support decision\-making through churn analysis, customer segmentation, CLV, A/B testing, and similar techniques.
+* Business Intelligence \& Self\-Service Analytics: Build, maintain, and optimize Looker dashboards, Explores, and LookML definitions that provide governed, reliable, self\-service analytics. Govern the semantic layer — metrics, dimensions, and business logic — that powers trusted reporting and AI\-enabled analytics. Train business users to leverage these tools confidently.
+* Finance Partnership \& Compliance: Serve as the primary analytical partner to the Finance team. Own financial reporting, reconciliation, and forecasting workflows. Support SOX audits and ITAC testing, ensuring financial data is accurate, auditable, and well\-documented.
+* Data Quality \& Cross\-Functional Collaboration: Monitor and improve data quality across analytical pipelines, especially for finance\-critical datasets. Gather requirements from stakeholders, translate business needs into technical specs, and collaborate with Data and Analytics Engineers to resolve upstream issues.
+
+**What You Bring Must Have**
+
+* Experience: 3\+ years in a Data Analyst, Analytics Engineer, or BI Analyst role in a modern cloud data stack environment.
+* SQL mastery: Advanced SQL including CTEs, window functions, joins, and performance\-aware querying in Snowflake or a comparable cloud warehouse.
+* Looker expertise: Hands\-on experience with Looker: dashboard development, Explores, LookML, governed metrics, and enabling self\-service analytics for business users.
+* dbt proficiency: Ability to read, maintain, test, and document dbt models. Familiarity with sources, tests, macros, lineage, and dbt development workflows.
+* Finance domain knowledge: Solid understanding of GL, journal entries, trial balance, financial statements, reconciliations, and period\-close processes. SOX/ITAC experience is highly valued.
+* Data modeling: Working knowledge of dimensional modeling — fact/dimension tables, star schemas, slowly changing dimensions.
+* Statistical \& predictive analysis: Applied experience with regression, classification, A/B testing, segmentation, and forecasting using SQL, Python, or similar tools.
+* Communication: Ability to explain complex analysis clearly to both Finance leadership and technical peers. Strong written and verbal skills.
+* Version control: Comfortable with Git/GitHub: branching, PRs, and collaborative development in a terminal environment.
+* AI \& LLM analytics: Experience with LLMs or AI\-assisted analytics tools (Claude, Gemini, GPT, Looker Conversational Analytics). Exposure to Cortex Analyst, Cortex Search, or AISQL capabilities. Understanding of MCP integration patterns is a plus.
+
+**Nice to Have**
+
+* Telecom / subscription domain: Experience in telco, connectivity, or subscription environments (MVNOs, ISPs). Familiarity with churn, ARPU, MRR, billing, and provisioning metrics.
+* Workflow orchestration: Familiarity with Airflow, Dagster, or Prefect for understanding scheduled pipelines and diagnosing failures.
+* Certifications: Looker, Snowflake, dbt, or cloud platform certifications.
+
+The base salary range for this position is $79,650 \- $88,500\. Range shown in $CAD for Canadian residents. Other countries will differ. Range may vary on a number of factors including, but not limited to: location, experience and qualifications. Tucows believes in a total rewards offering that includes fair compensation and generous benefits
+
+Want to know more about what we stand for? At Tucows we care about protecting the open Internet, narrowing the digital divide, and supporting fairness and equality.
+
+We also know that diversity drives innovation. We are committed to inclusion across race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status. We celebrate multiple approaches and diverse points of view.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+We use AI\-enabled tools throughout our recruitment process to help us work more efficiently and consistently. These tools support our hiring teams by organizing and reviewing information, while final hiring decisions are always made by people.
+
+Tucows and its subsidiaries participate in the E\-Verify program for all US employees.
+
+Learn more about Tucows, our businesses, culture and employee benefits on our site here.
+
+Pay: $50,000\.00\-$70,000\.00 per year
+
+Benefits:
+
+* On\-site gym
+* Work from home
+
+Work Location: Hybrid remote in Winnipeg, MB R3B 1B3",,https://ca.indeed.comNone,,,,,,,,,,,,,quality control analyst,2026-05-19
+li-4414745625,linkedin,https://www.linkedin.com/jobs/view/4414745625,,Geotechnical Lab Technician,AECOM,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/aecom,,,,,,,,,,,,,quality control analyst,2026-05-19
+li-4414745625,linkedin,https://www.linkedin.com/jobs/view/4414745625,,Geotechnical Lab Technician,AECOM,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://www.linkedin.com/company/aecom,,,,,,,,,,,,,microbiology technician,2026-05-19
+in-1febe92f265e8003,indeed,https://ca.indeed.com/viewjob?jk=1febe92f265e8003,http://ca.indeed.com/job/data-analyst-1febe92f265e8003,Data Analyst,,"Winnipeg, MB, CA",2026-05-18,fulltime,,,,,,True,,,,,"**About the job**
+
+Our partner, Tucows (NASDAQ:TCX, TSX:TC) is possibly the biggest Internet company you’ve never heard of. We started as a simple shareware site in 1993 and have since grown into a stable of businesses: Tucows Domains, Ting Internet and Wavelo.
+
+We embrace a people\-first philosophy that is rooted in respect, trust, and flexibility. We believe that whatever works for our employees is what works best for us. It’s also why the majority of our roles are remote\-first, meaning you can work from anywhere you can connect to the Internet!
+
+Today, over one thousand people work in over 20 countries to help us make the Internet better. If this sounds exciting to you, join the herd!
+
+**About The Role**
+
+We’re looking for a curious, technically strong, and business\-minded Data Analyst to join our Data Engineering team. This is a high\-impact analytics position for someone who works at the intersection of data engineering, business intelligence, finance analytics, and AI\-enabled decision support.
+
+You’ll partner closely with Finance, Operations, Data Engineering, and business leadership to turn complex questions into trusted, actionable insights — with a particular focus on supporting the Finance organization. This role reports to the Data Engineering Manager.
+
+What You’ll Do
+
+* SQL \& Business Analysis: Translate ambiguous business questions into precise SQL queries against our Snowflake warehouse. Own and deliver recurring financial reporting, reconciliation, and operational analytics with an eye for improving efficiency over time.
+* Diagnostic \& Advanced Analytics: Go beyond dashboards to explain why metrics move. Conduct root cause analyses, build forecasting models, and support decision\-making through churn analysis, customer segmentation, CLV, A/B testing, and similar techniques.
+* Business Intelligence \& Self\-Service Analytics: Build, maintain, and optimize Looker dashboards, Explores, and LookML definitions that provide governed, reliable, self\-service analytics. Govern the semantic layer — metrics, dimensions, and business logic — that powers trusted reporting and AI\-enabled analytics. Train business users to leverage these tools confidently.
+* Finance Partnership \& Compliance: Serve as the primary analytical partner to the Finance team. Own financial reporting, reconciliation, and forecasting workflows. Support SOX audits and ITAC testing, ensuring financial data is accurate, auditable, and well\-documented.
+* Data Quality \& Cross\-Functional Collaboration: Monitor and improve data quality across analytical pipelines, especially for finance\-critical datasets. Gather requirements from stakeholders, translate business needs into technical specs, and collaborate with Data and Analytics Engineers to resolve upstream issues.
+
+**What You Bring Must Have**
+
+* Experience: 3\+ years in a Data Analyst, Analytics Engineer, or BI Analyst role in a modern cloud data stack environment.
+* SQL mastery: Advanced SQL including CTEs, window functions, joins, and performance\-aware querying in Snowflake or a comparable cloud warehouse.
+* Looker expertise: Hands\-on experience with Looker: dashboard development, Explores, LookML, governed metrics, and enabling self\-service analytics for business users.
+* dbt proficiency: Ability to read, maintain, test, and document dbt models. Familiarity with sources, tests, macros, lineage, and dbt development workflows.
+* Finance domain knowledge: Solid understanding of GL, journal entries, trial balance, financial statements, reconciliations, and period\-close processes. SOX/ITAC experience is highly valued.
+* Data modeling: Working knowledge of dimensional modeling — fact/dimension tables, star schemas, slowly changing dimensions.
+* Statistical \& predictive analysis: Applied experience with regression, classification, A/B testing, segmentation, and forecasting using SQL, Python, or similar tools.
+* Communication: Ability to explain complex analysis clearly to both Finance leadership and technical peers. Strong written and verbal skills.
+* Version control: Comfortable with Git/GitHub: branching, PRs, and collaborative development in a terminal environment.
+* AI \& LLM analytics: Experience with LLMs or AI\-assisted analytics tools (Claude, Gemini, GPT, Looker Conversational Analytics). Exposure to Cortex Analyst, Cortex Search, or AISQL capabilities. Understanding of MCP integration patterns is a plus.
+
+**Nice to Have**
+
+* Telecom / subscription domain: Experience in telco, connectivity, or subscription environments (MVNOs, ISPs). Familiarity with churn, ARPU, MRR, billing, and provisioning metrics.
+* Workflow orchestration: Familiarity with Airflow, Dagster, or Prefect for understanding scheduled pipelines and diagnosing failures.
+* Certifications: Looker, Snowflake, dbt, or cloud platform certifications.
+
+The base salary range for this position is $79,650 \- $88,500\. Range shown in $CAD for Canadian residents. Other countries will differ. Range may vary on a number of factors including, but not limited to: location, experience and qualifications. Tucows believes in a total rewards offering that includes fair compensation and generous benefits
+
+Want to know more about what we stand for? At Tucows we care about protecting the open Internet, narrowing the digital divide, and supporting fairness and equality.
+
+We also know that diversity drives innovation. We are committed to inclusion across race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status. We celebrate multiple approaches and diverse points of view.
+
+We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+We use AI\-enabled tools throughout our recruitment process to help us work more efficiently and consistently. These tools support our hiring teams by organizing and reviewing information, while final hiring decisions are always made by people.
+
+Tucows and its subsidiaries participate in the E\-Verify program for all US employees.
+
+Learn more about Tucows, our businesses, culture and employee benefits on our site here.
+
+Pay: $50,000\.00\-$70,000\.00 per year
+
+Benefits:
+
+* On\-site gym
+* Work from home
+
+Work Location: Hybrid remote in Winnipeg, MB R3B 1B3",,https://ca.indeed.comNone,,,,,,,,,,,,,data analyst,2026-05-19
+li-4416252447,linkedin,https://www.linkedin.com/jobs/view/4416252447,,"Canada Residents - Survey Participants - Macdonald, Canada",Prolific,"Macdonald, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,data analyst,2026-05-19
+li-4416248500,linkedin,https://www.linkedin.com/jobs/view/4416248500,,"Canada Residents - Survey Participants - Ritchot, Canada",Prolific,"Ritchot, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,data analyst,2026-05-19
+li-4416254404,linkedin,https://www.linkedin.com/jobs/view/4416254404,,"Canada Residents - Survey Participants - East St. Paul, Canada",Prolific,"East Saint Paul, Manitoba, Canada",,,,,,,,False,,,,,,,https://uk.linkedin.com/company/prolific-com,,,,,,,,,,,,,data analyst,2026-05-19
+li-4412849164,linkedin,https://www.linkedin.com/jobs/view/4412849164,,"Program Manager, Product Security (Remote, CAN)",CrowdStrike,,,,,,,,,True,,,,,,,https://www.linkedin.com/company/crowdstrike,,,,,,,,,,,,,program coordinator,2026-05-19
+li-4354438488,linkedin,https://www.linkedin.com/jobs/view/4354438488,,IT Project Manager,The North West Company,"Winnipeg, Manitoba, Canada",,,,,,,,False,,,,,,,https://ca.linkedin.com/company/the-north-west-company,,,,,,,,,,,,,project manager,2026-05-19
+li-4412849164,linkedin,https://www.linkedin.com/jobs/view/4412849164,,"Program Manager, Product Security (Remote, CAN)",CrowdStrike,,,,,,,,,True,,,,,,,https://www.linkedin.com/company/crowdstrike,,,,,,,,,,,,,project manager,2026-05-19
